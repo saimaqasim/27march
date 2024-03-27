@@ -1,0 +1,99 @@
+body{
+background-color:rgb(80, 138, 129) ;
+}
+form{
+width: 350px;
+    background-color: white;
+    height: 350px;
+    margin-left: 500px;
+    border-radius: 5px;
+    margin-top: 70px;
+    
+}
+.login{
+ font-family: arial;
+ color: black;
+ font-size: 25px;
+ padding-top: 20px;
+ text-align: center;
+
+
+}
+.email{
+width: 200px;
+    display: block;
+    height: 26px;
+    margin-bottom: 17px;border-radius: 3px;
+    border-color: rgb(226, 209, 209);
+margin-left:75px;
+border: 1px solid;
+
+}
+
+
+
+.email::placeholder{
+  padding-left: 10px;
+
+
+}
+.password{
+    width: 200px;
+    display: block;
+    height: 26px;
+    border-radius: 3px;
+    border-color: rgb(172, 168, 168);
+    border: 1px solid;
+    margin-left: 75px;
+
+}
+.password::placeholder{
+
+    padding-left: 10px;
+}
+
+
+.div-1{
+
+font-family: arial;
+color:rgb(80, 138, 129) ;
+font-size: 12px;
+margin-top: 11px;
+margin-left: 75px;
+margin-bottom: 10px;
+}
+button{
+
+
+    width: 208px;
+    height: 30px;
+    background-color:rgb(80, 138, 129) ;
+    color: white;
+    font-family: arial;border: none;
+    border-radius: 3px;
+    margin-top: 15px;
+    display: block;
+    margin: auto;
+    
+}
+button:hover{
+
+
+    cursor: pointer;
+}
+.div-2{
+
+font-family: arial;
+font-size: 12px;
+margin-top: 10px;
+text-align: center;
+}
+span{
+color:rgb(80, 138, 129) ;
+font-family: arial;
+font-size: 12px;
+margin-top: 10px;
+text-align: center;
+cursor: pointer;
+
+}
